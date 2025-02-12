@@ -5,7 +5,7 @@ iCareApp is an accessibility-focused application designed to support children wi
 
 ## Long Description
 **iCareApp – Accessibility-First Learning and Communication Platform**  
-iCareApp is a **non-AI-driven** mobile and web application that enhances communication and learning for children with special needs. Built with accessibility in mind, it ensures compliance with **WCAG 2.1** standards and provides an easy-to-use interface for students, teachers, and parents.
+iCareApp is a web application that enhances communication and learning for children with special needs. Built with accessibility in mind, it ensures compliance with **WCAG 2.1** standards and provides an easy-to-use interface for students, teachers, and parents.
 
 ## Key Features ✅
 - **Accessible UI/UX** – Follows **WCAG 2.1** for maximum usability.  
