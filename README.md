@@ -1,26 +1,44 @@
-# Lama Dev School Management Dashboard
+ICareApp GitHub Repository Description
+Repository Name: ICareApp
+Short Description:
+ICareApp is an accessibility-focused application designed to support children with special needs by providing an intuitive, user-friendly interface that follows WCAG 2.1 standards.
 
-## Getting Started
+Long Description (For GitHub README.md)
+ICareApp – Accessibility-First Learning and Communication Platform
+Overview
+ICareApp is a non-AI-driven mobile and web application that enhances communication and learning for children with special needs. Built with accessibility in mind, it ensures compliance with WCAG 2.1 standards and provides an easy-to-use interface for students, teachers, and parents.
 
-First, run the development server:
+Key Features
+✅ Accessible UI/UX – Follows WCAG 2.1 for maximum usability.
+✅ Multiple Authentication Methods – Supports pictogram-based login and text-based authentication.
+✅ Keyboard & Screen Reader Friendly – Fully navigable without a mouse.
+✅ Multi-Device Compatibility – Works on mobile, tablet, and desktop.
+✅ Secure & Privacy-Focused – Implements strong authentication and encryption.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Getting Started
+1. Clone the Repository
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/ICareApp.git
+cd ICareApp
+2. Install Dependencies
+bash
+Copy
+Edit
+npm install
+3. Start the Development Server
+bash
+Copy
+Edit
+npm start
+Contributing
+We welcome contributions! Read our CONTRIBUTING.md to get started.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Lama Dev Youtube Channel](https://youtube.com/lamadev) 
-- [Next.js](https://nextjs.org/learn)
+How You Can Help
+Report bugs via Issues
+Suggest new features
+Improve documentation
+Submit pull requests
+License
+This project is licensed under the MIT License. See LICENSE for details.
