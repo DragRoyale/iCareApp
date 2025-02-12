@@ -26,7 +26,7 @@ Getting Started
 bash
 Copy
 Edit
-git clone https://github.com/DragRoyale/iCareApp)
+git clone https://github.com/DragRoyale/iCareApp
 cd ICareApp
 2. Install Dependencies
 bash
